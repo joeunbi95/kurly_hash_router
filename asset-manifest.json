@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kurly_hash_router/static/css/main.f01290ef.css",
+    "main.js": "/kurly_hash_router/static/js/main.05aa6baa.js",
+    "index.html": "/kurly_hash_router/index.html",
+    "main.f01290ef.css.map": "/kurly_hash_router/static/css/main.f01290ef.css.map",
+    "main.05aa6baa.js.map": "/kurly_hash_router/static/js/main.05aa6baa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f01290ef.css",
+    "static/js/main.05aa6baa.js"
+  ]
+}
